@@ -1,0 +1,54 @@
+.xx{
+    display: flexbox;
+    
+}
+.xx img{
+    padding: 5px;
+    background-color:whitesmoke;;
+}
+.yy{
+    display: flexbox;
+   
+}
+.yy img{
+    padding: 5px;
+    background-color:whitesmoke;;
+}
+.zz{
+    display: flex;
+    padding: 2px;
+}
+.zz img{
+padding: 1%;
+background-color: whitesmoke;
+
+}
+.ww{
+    display: flex;
+}
+.ww img{
+    background-color: whitesmoke;
+    padding: 0.2%;
+    padding-left: 0.3%;
+}
+.mm{
+    background-color:whitesmoke;
+}
+.vv{
+    display: flex;
+    
+}
+.rrr{
+    padding-left: 40%;
+    color: gray
+}
+.vvv{
+    color: gray;
+    padding-left: 41%;
+}
+.vv img{
+    padding-left: 13%;
+}
+.aa img{
+    padding-left: 190%;
+}

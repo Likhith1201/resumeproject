@@ -1,0 +1,75 @@
+.obj h1{
+color: rgb(255, 191, 0);
+font-family: cursive;
+
+
+}
+.obj h5{
+    color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.edu h5{
+    color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.edu h1{
+color: rgb(255, 191, 0);
+font-family: cursive;
+}
+
+
+.prj h1{
+    color: rgb(255, 191, 0);  
+    font-family: cursive;
+}
+.prj h3{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.prj h5{
+    color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.prj a{
+    color: lightskyblue;
+}
+
+
+.wrk h1{
+    color: rgb(255, 191, 0);
+    font-family: cursive;
+}
+.wrk h3{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrk h5{
+    color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.int h1{
+    color: rgb(255, 191, 0);
+    font-family: cursive;
+}
+.int h3{
+    color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.int h5{
+    color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.crt h1{
+    color: rgb(255, 191, 0);
+    font-family: cursive;
+}
+.crt h3{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.crt h5{
+    color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+

@@ -1,0 +1,161 @@
+.main
+{
+    background-color: whitesmoke;
+   
+}
+
+
+
+.main2{
+
+    position: absolute;
+      left: 20%;
+       top: 22%;
+       
+      
+       background-color: whitesmoke
+    
+       
+   }
+.main1
+{
+    position: absolute;
+    left: 50%;
+    top: 4%;
+  
+    font-family: cursive;
+    background-color: whitesmoke
+    
+    
+}
+
+.main2 img
+{
+    border-radius: 1000px;
+   
+    
+
+}
+
+
+.x 
+{
+
+font-family: cursive;
+text-align: right;
+padding-right: 4%;
+padding-bottom: 2%;
+
+
+
+}
+
+
+.y
+{
+    padding-left: 2%;
+    padding-top: 2%;
+    color: rgb(4, 4, 27)
+}
+
+.y h5
+{
+    padding-left: 3%;
+
+}
+
+.ok div 
+{
+   
+    top: 29%;
+}
+
+.r
+{
+    background-color: rgb(207, 204, 197);
+    display: flex;
+    
+    
+}
+.r a{
+  padding-right: 10px;
+}
+.x input
+{
+  border-radius: 100px;
+    color:black;
+    background-color:whitesmoke;
+    border-color: whitesmoke;
+}
+
+.r a.log
+{
+align-items: center;
+
+color: white;
+
+}
+.d 
+{
+background-color: rgb(230, 228, 228);
+padding-top: 1%;
+display: flex;
+}
+
+.se img{
+  border-radius: 100px 100px;
+ 
+
+
+
+  }
+
+.se{
+  padding-top: 26%;
+  padding-left:49.3%;
+  
+}
+
+.y img{
+  border-radius: 20px;
+}
+.x img{
+  border-radius: 3px;
+  padding-top: 49%;
+  
+}
+
+.d{
+  display: flexbox;
+}
+.container
+{
+  display: flex;
+  padding-left: 20px;
+  color: black
+}
+.abc
+{
+  padding-left: 490px;
+  color:black
+}
+.fol
+{
+  padding-left: 450px;
+  
+  
+}
+
+
+
+.fol img
+{
+  border-radius: 100px;
+  padding: 1px;
+}
+.y{
+  font-family: cursive;
+}
+.x{
+  padding-left: 67%;
+}
